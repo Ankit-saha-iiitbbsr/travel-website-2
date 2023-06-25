@@ -654,3 +654,13 @@ backdrop-filter: blur(24px);
 }
 
 /*=============== BREAKPOINTS ===============*/
+/* For small devices */
+@media screen and (max-width: 340px) {
+  .container{
+    margin-inline: 1rem;
+  }
+
+  .footer__data{
+    grid-template-columns: max-content;
+  }
+}
