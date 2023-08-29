@@ -1,6 +1,7 @@
 # Responsive Travel Website
 ### Responsive Travel Website
-
+### GitHub pages: https://ankit-saha-iiitbbsr.github.io/travel-website-2/
+- Note: Only responsive to small screen devices
 - Responsive Travel Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
